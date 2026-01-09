@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+
+# Bundler lock file
+Gemfile.lock
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

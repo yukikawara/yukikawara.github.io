@@ -7,7 +7,7 @@ layout: default
     <h1 class="page-heading">瓦祐希 / Yuki Kawara</h1>
 
     <div class="hero-description">
-      <p>IT 会社でエンジニアをしています。業務では MLOps をやったり、クラウドでのインフラ構築をしたりしています。個人では自然言語処理の論文を読んだりモデルを作ったりして遊んでいます。</p>
+      <p>IT 会社でエンジニアをしています。業務では MLOps をやったり、AWS でのインフラ構築をしたりしています。個人では自然言語処理の論文を読んだりモデルを作ったりして遊んでいます。</p>
     </div>
   </div>
 
@@ -86,12 +86,10 @@ layout: default
     <h2>連絡先</h2>
     <p>お気軽にご連絡ください！</p>
     <div class="contact-links">
-      {% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a>
-      {% endif %}
-      {% if site.email %}
-        <a href="mailto:{{ site.email }}">Email</a>
-      {% endif %}
+      <a href="https://github.com/yukikawara" target="_blank">GitHub</a>
+      <a href="https://x.com/kawara_y" target="_blank">𝕏 (Twitter)</a>
+      <a href="https://zenn.dev/kawara_y" target="_blank">Zenn</a>
+      <a href="https://www.docswell.com/user/kawara-y" target="_blank">Docswell</a>
     </div>
   </section>
 </div>

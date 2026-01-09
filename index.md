@@ -46,7 +46,7 @@ layout: default
     </div>
   </section>
 
-  <section class="projects-section">
+  <!-- <section class="projects-section">
     <h2>プロジェクト</h2>
     <div class="project-list">
       <div class="project-item">
@@ -59,7 +59,7 @@ layout: default
         <p>プロジェクトの説明がここに入ります。</p>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="latest-posts">
     <h2>最新のブログ記事</h2>
@@ -84,7 +84,7 @@ layout: default
 
   <section class="contact-section">
     <h2>連絡先</h2>
-    <p>お気軽にご連絡ください！</p>
+    <p>お気軽にご連絡ください</p>
     <div class="contact-links">
       <a href="https://github.com/yukikawara" target="_blank">GitHub</a>
       <a href="https://x.com/kawara_y" target="_blank">𝕏 (Twitter)</a>
